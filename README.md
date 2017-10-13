@@ -2,6 +2,8 @@
 
 This is the resource list for Hack The North 2017's Security workshop. 
 
+The slides can be found [here](https://docs.google.com/presentation/d/14g9STMhGSAtCdKBCQYKS44WNTdStqCS3OIY_kXhio0M/edit?usp=sharing).
+
 
 ## Directly Relevant
 
